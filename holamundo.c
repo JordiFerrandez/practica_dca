@@ -2,6 +2,10 @@
 
 int main()
 {
-        printf("Hola mundo con más funcionalidad!!!!!!");qweqweqweqwe
+        printf("Hola mundo con más funcionalidad!!!!!!");qweqweqweqweasdasdas
         return 0;
-}
+}dasd
+as
+dasdsd
+asd
+as
